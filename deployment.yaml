@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: java-app-container
-        image: <+artifact.image> 
+        image: <YOUR_DOCKERHUB>/<IMAGE_NAME>:TAG
         ports:
         - containerPort: 8080  # Port your Java app listens to
         env:
