@@ -2,7 +2,7 @@ pipeline:
   name: guestbook_bluegreen_pipeline
   identifier: guestbook_bluegreen_pipeline
   projectIdentifier: default_project
-  orgIdentifier: default
+  orgIdentifier: TPM
   tags: {}
   stages:
     - stage:

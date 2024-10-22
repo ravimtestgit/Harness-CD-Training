@@ -2,7 +2,7 @@ pipeline:
   name: guestbook_rolling_pipeline
   identifier: guestbook_rolling_pipeline
   projectIdentifier: default_project
-  orgIdentifier: default
+  orgIdentifier: TPM
   tags: {}
   stages:
     - stage:
